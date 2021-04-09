@@ -1,3 +1,3 @@
 # Number-Guesser with local storage function
 
-Direct Link:
+Direct Link: https://mihaiudvar.github.io/Number-Guesser/
